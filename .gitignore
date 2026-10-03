@@ -1,0 +1,7 @@
+node_modules/
+dist/
+backend/target/
+.env
+*.log
+tsconfig.tsbuildinfo
+.claude/
